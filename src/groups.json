@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Group-1",
+    "closed": false,
+    "avatar_color": "blue",
+    "members_count": 1000,
+    "friends": [
+      {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe"
+      },
+      {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Doe"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Group-2",
+    "closed": true,
+    "avatar_color": "red",
+    "members_count": 2000,
+    "friends": []
+  },
+  {
+    "id": 3,
+    "name": "Group-3",
+    "closed": false,
+    "avatar_color": "green",
+    "members_count": 500,
+    "friends": [
+      {
+        "id": 3,
+        "first_name": "Mike",
+        "last_name": "Smith"
+      }
+    ]
+  }
+]
